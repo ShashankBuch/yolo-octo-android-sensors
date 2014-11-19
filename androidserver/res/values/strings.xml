@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">androidserver</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_server_list">ServerListActivity</string>
+    <string name="title_activity_server_light">ServerLightActivity</string>
+    <string name="title_activity_server_location">ServerLocationActivity</string>
+
+</resources>

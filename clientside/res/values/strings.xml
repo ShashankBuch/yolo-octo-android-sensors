@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">myclient</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_display_sensor_message">DisplaySensorMessage</string>
+    <string name="title_activity_display_message">DisplayMessage</string>
+
+</resources>
